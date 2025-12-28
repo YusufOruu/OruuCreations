@@ -1,0 +1,40 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Archive files
+*.zip
+*.rar
+*.7z
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Exported minecraft pack files
+*.mcpack
+*.mcaddon
+*.mcworld
+
+# Build folders
+build/
+dist/
+output/
+
+# Textures raw/large resources (optional)
+*.psd
+*.xcf
+
+# Node/Web dev (if used later for tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Replit / Editor files
+.replit
+*.replit
