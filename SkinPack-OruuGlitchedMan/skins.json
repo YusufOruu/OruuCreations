@@ -1,0 +1,12 @@
+{
+  "serialize_name": "OruuGlitchedMan",
+  "localization_name": "Oruu Glitched Man",
+  "skins": [
+    {
+      "localization_name": "Oruu Gliched Man",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "Oruu Gliched Man.png",
+      "type": "free"
+    }
+  ]
+}
