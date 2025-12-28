@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Oruu Glitched Man Skin Pack",
+    "description": "A custom glitched-themed Minecraft skin by OruuCreations.",
+    "uuid": "e06ad5b3-4500-4162-8bc3-227ff05969ee",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 19, 0]
+  },
+  "modules": [
+    {
+      "type": "skin_pack",
+      "uuid": "109d1c22-8189-44ef-a9b3-5c866f09dd32",
+      "version": [1, 0, 0]
+    }
+  ]
+}
